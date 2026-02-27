@@ -1,5 +1,7 @@
 # High-Level Architecture
 
+# System Architecture
+![alt text](architecture.png)
 ## Components
 
 1. API Gateway
